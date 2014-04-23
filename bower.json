@@ -1,0 +1,23 @@
+{
+  "name": "videojs-captionToggle",
+  "version": "1.0.0",
+  "homepage": "https://github.com/krztnkho/videojs-captionToggle",
+  "authors": [
+    "Kristine Kho <krztnkho@gmail.com>"
+  ],
+  "description": "plugin for videojs",
+  "main": "videojs.captionToggle.js",
+  "keywords": [
+    "toggle",
+    "closed",
+    "caption"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
